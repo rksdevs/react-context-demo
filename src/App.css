@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-red {
+  background-color: #cf0e0e;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.btn-green {
+  background-color: #008009;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.btn-blue {
+  background-color: #091dd7;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.btn-white {
+  background-color: #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
